@@ -1,4 +1,4 @@
-# Case-2_Module-1
+# Case_2_Module_1
 This case have been done by Chirkov Sergey and Gordeev Mihail.
 
 Берем прикладные задачи, лучше экономические
