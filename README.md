@@ -1,5 +1,5 @@
 # Case-study--2
-this case have been done by Chirkov Sergey and Gordeev Mihail
+This case have been done by Chirkov Sergey and Gordeev Mihail.
 
 Берем прикладные задачи, лучше экономические
 Обязательно локализация, программа не содержит ни одного национального символа
